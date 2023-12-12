@@ -13,5 +13,7 @@
 **Solution:**
 
 • Utilized data visualization and feature engineering techniques such as LabelEncoder to examine costomer characteristics, and employed chi-square tests and ANOVA for feature selection.
+
 • Combined various machine learning techniques, including GridSearchCV, coordinate descent, model fusion, ensemble learning, and deep neural networks to finalize prediction model.
+
 • Evaluated the model with confusion matrix and obtained the accuracy of 0.8034.
